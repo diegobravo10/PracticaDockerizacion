@@ -81,6 +81,9 @@ docker-compose down
 
 Para visualizar todos los datos de los usuarios, ingresa al siguiente link:
 `http://localhost:5000//api/v1/users`
+<br>
+Los datos a visualizar son los siguientes: <br>
+<img width="719" height="441" alt="Image" src="https://github.com/user-attachments/assets/3c729b84-78c0-4542-b675-000081d2c3ad" />
 
 ### **Product Service (puerto 8080)**
 
@@ -92,6 +95,9 @@ Para visualizar todos los datos de los usuarios, ingresa al siguiente link:
 
 Para visualizar todos los datos de los productos, ingresa al siguiente link:
 `http://localhost:8080/api/v1/products`
+<br>
+Los datos a visualizar son los siguientes:<br>
+<img width="747" height="759" alt="Image" src="https://github.com/user-attachments/assets/00a25249-f5d4-42b9-9908-06d082d9cd6d" />
 
 En el caso de necesitar registrar nuevos productos puedes usar herramientas como **Hoppscotch**, se debe realizar de la siguiente manera.
 
@@ -104,4 +110,4 @@ En el caso de necesitar registrar nuevos productos puedes usar herramientas como
 
 Esta práctica demuestra la implementación correcta de una arquitectura basada en microservicios totalmente independiente, cada uno con su propia base de datos y contenedor dedicado. El uso de Docker Compose simplifica el despliegue, prueba y mantenimiento del sistema, permitiendo entornos aislados y fácilmente reproducibles, una vez cargado los contenedores se nos presentará de la siguiente manera. 
 
-
+<img width="1917" height="1143" alt="Image" src="https://github.com/user-attachments/assets/4bda52b7-5613-45f3-8aa0-ca9dd3ef6b0c" />
