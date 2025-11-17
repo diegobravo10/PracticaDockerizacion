@@ -111,3 +111,6 @@ En el caso de necesitar registrar nuevos productos puedes usar herramientas como
 Esta práctica demuestra la implementación correcta de una arquitectura basada en microservicios totalmente independiente, cada uno con su propia base de datos y contenedor dedicado. El uso de Docker Compose simplifica el despliegue, prueba y mantenimiento del sistema, permitiendo entornos aislados y fácilmente reproducibles, una vez cargado los contenedores se nos presentará de la siguiente manera. 
 
 <img width="1917" height="1143" alt="Image" src="https://github.com/user-attachments/assets/4bda52b7-5613-45f3-8aa0-ca9dd3ef6b0c" />
+
+
+Diego come verga
