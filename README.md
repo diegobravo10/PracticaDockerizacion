@@ -46,8 +46,8 @@ Microservicios/
 ### Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-repo/microservicios.git
-cd microservicios
+git clone https://github.com/diegobravo10/PracticaDockerizacion.git
+cd PracticaDockerizacion
 ```
 
 ### Construir e iniciar los contenedores
