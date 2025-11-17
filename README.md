@@ -93,15 +93,15 @@ Para visualizar todos los datos de los usuarios, ingresa al siguiente link:
 Para visualizar todos los datos de los productos, ingresa al siguiente link:
 `http://localhost:8080/api/v1/products`
 
-En el caso de necesitar registrar nuevos productos puedes usar herramientas como **Hoppscotch**
+En el caso de necesitar registrar nuevos productos puedes usar herramientas como **Hoppscotch**, se debe realizar de la siguiente manera.
 
-
+<img width="1323" height="506" alt="Image" src="https://github.com/user-attachments/assets/f0f49ddd-00ca-4a7f-94d2-09cefabd321d" />
 
 
 ---
 
 ## Conclusión y Demostración 
 
-Esta práctica demuestra la implementación correcta de una arquitectura basada en microservicios totalmente independiente, cada uno con su propia base de datos y contenedor dedicado. El uso de Docker Compose simplifica el despliegue, prueba y mantenimiento del sistema, permitiendo entornos aislados y fácilmente reproducibles.
+Esta práctica demuestra la implementación correcta de una arquitectura basada en microservicios totalmente independiente, cada uno con su propia base de datos y contenedor dedicado. El uso de Docker Compose simplifica el despliegue, prueba y mantenimiento del sistema, permitiendo entornos aislados y fácilmente reproducibles, una vez cargado los contenedores se nos presentará de la siguiente manera. 
 
 
